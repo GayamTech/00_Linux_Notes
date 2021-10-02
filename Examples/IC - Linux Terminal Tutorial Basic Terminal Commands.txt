@@ -1,0 +1,35 @@
+Linux Terminal Tutorial Basic Terminal Commands (ubuntu, et.)
+
+1) Open Terminal
+2) command = pwd		stands for present working directory, perhaps default
+3) ls (lowercase LS)	gives list of all directories & files in pwd. shows non-hidden files.  referred to as list out.
+4) ls -a			a stands for all.  shows non-hidden & hidden files.
+Q: make picture of screen output.
+
+5) clear			clears terminal screen, back to command prompt
+6) cd Documents/		cd stands for change directory, from current working directory, cd Doc pressing tab will complete your search.
+Press <enter>
+7) ls to see what is in the directory.
+8) mkdir Test		mkdir stands for make directory.  Test
+9) ls to see what is in the directory.
+
+NOTE: directory and filenames are case sensitive in Linux.  Need to give exact spelling of it.  The ~/  means home folder.
+10)  cd ..			change directory one folder level up.
+11) rmdir Test		removes directory Test
+12) ls to see what is in the directory.
+13) nano			pre installed software "terminal editor" in ubuntu to create a document
+14) type Hello_your-name-here! press control-x  say yes to save the file  type in filename myName press enter
+15) ls - l (LOWER CASE LS _ L) to see file attributes
+16) nano myName		will open the document  control-x to exit
+17) rm myName		will remove, will delete the file.
+18) ls will show how you began
+
+19) cp myName /home/jerry/Downloads/myName2	will copy the input file into the output file
+20) rm -r Test 	will remove the directory and all files in it.
+21) man ls		will give you the HELP manual for ls with options     
+22) q to quit
+
+Using the terminal editor, write a four line poem, save file as poemIC.
+Upload your screen prints and poem file to Canvas
+
+     
